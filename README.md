@@ -32,7 +32,7 @@ hail_mary_sim/
 │   ├── grace.py          ← Dr. Ryland Grace (Q-learning AI)
 │   └── rocky.py          ← Rocky (cooperative Eridian AI)
 └── environment/
-    └── grid.py           ← 20×20 space grid, Astrophage spreading
+    └── grid.py           ← 30×30 space grid, Astrophage spreading
 ```
 
 ### Key AI Features

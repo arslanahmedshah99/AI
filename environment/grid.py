@@ -1,4 +1,4 @@
-"""Environment Grid — 20x20 space near Tau Ceti"""
+"""Environment Grid — 30x30 space near Tau Ceti"""
 import random, math
 from config import *
 
